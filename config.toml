@@ -30,7 +30,7 @@ summaryLength = 30
 [params]
   google_analytics_id=""
   homepage_button_link = '/docs'
-  homepage_button_text = 'Read The Docs'
+  homepage_button_text = '🚀 Get Started'
   homepage_intro = 'AWS for Education is an exciting Quick Start guide aimed to help customers in the Education ecosystem – from startups to educational institutions – to get started with the AWS Cloud.'
   homepage_image = '/images/terminal.gif'
 

@@ -1,0 +1,25 @@
+.button {
+  white-space: nowrap;
+  display: inline-block;
+  padding: 8px 15px 6px 15px;
+  background: $secondary;
+  font-weight: normal;
+  text-transform: uppercase;
+  color: lighten($secondary, 50%);
+  text-decoration: none;
+  -webkit-transition: all 0.15s ease;
+  transition: all 0.15s ease;
+  border: 2px solid $secondary;
+  border-radius: 3px;
+  &:hover {
+    color: $black;
+    background-color: lighten($secondary, 40%);
+    text-decoration: none;
+    border-color: $secondary;
+  }
+}
+.button-white {
+  background: none;
+  color: #fff;
+  border: 2px solid #fff;
+}

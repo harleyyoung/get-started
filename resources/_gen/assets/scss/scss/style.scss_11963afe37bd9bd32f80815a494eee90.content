@@ -7573,7 +7573,7 @@ p {
   .hamburger .hamburger-inner,
   .hamburger .hamburger-inner::before,
   .hamburger .hamburger-inner::after {
-    background: #232f3e; }
+    background: #fff; }
   .hamburger .hamburger-inner::after {
     width: 18px;
     right: 0; }

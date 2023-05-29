@@ -5,7 +5,7 @@ draft: false
 weight: 30
 ---
 
-The **Governance Perspective** focuses on orchestrating your cloud initiatives while maximizing organizational benefits and minimizing transformation-related risks. It comprises seven capabilities shown in the following figure. Common stakeholders include chief transformation officer, CIO, CTO, CFO, CDO, and CRO
+The **Governance Perspective** focuses on orchestrating your cloud initiatives while maximizing organizational benefits and minimizing transformation-related risks. It comprises seven capabilities shown in the following figure. Common stakeholders include chief transformation officer, CIO, CTO, CFO, CDO, and CRO.
 
 
 ## Start With

@@ -96,7 +96,7 @@ sup {
   top: -.5em; }
 
 a {
-  color: #232f3e;
+  color: #ff9900;
   text-decoration: none;
   background-color: transparent; }
   a:hover {

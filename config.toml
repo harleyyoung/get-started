@@ -35,7 +35,7 @@ summaryLength = 30
   homepage_image = '/images/terminal.gif'
 
   ## You can enable to add anchor links to header elements
-  # enable_anchor_link = true
+  enable_anchor_link = false
 
   [params.homepage_meta_tags]
     meta_description = "AWS for Education is an exciting Quick Start guide aimed to help customers in the Education ecosystem – from startups to educational institutions – to get started with the AWS Cloud."

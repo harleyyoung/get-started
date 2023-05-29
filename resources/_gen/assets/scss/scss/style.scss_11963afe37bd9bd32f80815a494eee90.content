@@ -7553,8 +7553,9 @@ p {
     margin: 0;
     padding: 4px 0 4px 0; }
     .docs-menu ul li.active a {
-      color: #35485f;
-      font-weight: 400; }
+      font-weight: 800;
+      color: #ff9900;
+      font-size: 1rem; }
     .docs-menu ul li a {
       color: #000; }
       .docs-menu ul li a:hover {

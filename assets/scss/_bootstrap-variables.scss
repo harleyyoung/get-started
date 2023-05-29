@@ -15,15 +15,16 @@ $container-max-widths: (
 
 $grid-gutter-width: 20px;
 
-$primary: #fff;
+$primary: #232f3e;
 $secondary: #ff9900;
-$black: #232f3e;
+
 
 // Links
 $link-color: $primary;
 $link-decoration: none;
 $link-hover-color: lighten($primary, 20%);
 $link-hover-decoration: underline;
+
 
 // Fonts
 $font-size-base: 1rem; // Assumes the browser default, typically `16px`
